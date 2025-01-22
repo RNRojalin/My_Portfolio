@@ -30,6 +30,7 @@ Experience the portfolio live here: Portfolio Website
 
 
 𝟓.𝐈𝐧𝐬𝐭𝐚𝐥𝐥𝐚𝐭𝐢𝐨𝐧
+
 1.Clone this repository:
 
   git clone https://github.com/RNRojalin/My_Portfolio
