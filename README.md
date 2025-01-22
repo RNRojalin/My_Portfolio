@@ -8,6 +8,7 @@ Projects Section: Displays details and links to my notable projects.
 Contact Form: Users can reach out directly via an integrated contact form.
 
 Technologies Used
+
 HTML: Semantic structure of web pages.
 CSS: Styling and layout, including Flexbox and Grid for responsive design.
 JavaScript: Adds interactivity and dynamic content.
