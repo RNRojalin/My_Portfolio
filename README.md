@@ -1,7 +1,6 @@
 1.Overview
 
 This repository contains the source code for my personal portfolio website, which highlights my skills, projects, and professional background. Built with HTML, 
-
 CSS, and JavaScript, the site is designed to be fully responsive and user-friendly, showcasing my expertise as a developer.
 
 2.Features
